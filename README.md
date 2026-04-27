@@ -1,4 +1,4 @@
-<img width="893" height="221" alt="image" src="https://github.com/user-attachments/assets/d40f792e-f27a-4548-9d0b-7cac157d7249" /># Olist EC事業 売り上げ改善分析プロジェクト
+# Olist EC事業 売り上げ改善分析プロジェクト
 
 ブラジル最大級のECモール Olistのデータを用い、売上成長のボトルネックを特定。
 SQL（BigQuery）による現状分析から、Python（LightGBM）を用いた要因検証、施策のROIシミュレーションまでを一気通貫で実施しました。
